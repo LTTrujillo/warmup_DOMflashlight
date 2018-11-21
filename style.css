@@ -1,8 +1,8 @@
 
 body { background-color: #ccc }
 
-.on { background-color: #fff }
-.off { background-color: #000 }
+.on { background-color: white }
+.off { background-color: black }
 
 #flashlight {
   width: 100px;
